@@ -1,9 +1,9 @@
-# fantasy-fps
-A real-time multiplayer melee fighting FPS RPG made with a custom C# engine
+# ProtoEngine
 
-## Key Gameplay Features
-- Large sandbox world
-- Simulated ecosystems and economy
-- Lots of customisation
-- Long-term PvE progression
-- Normalised PvP levels
+A 3D game-engine built in C# and rendered with OpenGL
+
+Current features:
+- Forward rendering and deferred rendering
+- An Entity-Component system for fast parralel computation on large numbers of objects
+- Spatial indexing for fast entity queries
+- Resource management with dynamic loading of assets
