@@ -1,0 +1,14 @@
+UserSettings
+Packages
+Temp
+obj
+.vs/topdown-fighter/**
+Library
+Logs
+Logs/*
+*.dll
+.vs/CSharp-ECS/DesignTimeBuild/.dtbcache.v2
+.vs/CSharp-ECS/v17/.futdcache.v1
+**/bin/**
+.vs/FantasyFPS/v15/.suo
+.vs/FantasyFPS/v17/.suo
